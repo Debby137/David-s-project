@@ -1,0 +1,15 @@
+body{
+text-align: center;
+}
+#apps{
+background-color: aqua;
+width: 100%;
+}
+#games{
+background-color:lime;
+width: 100%;
+}
+#chatbot{
+background-color: blue;
+width: 100%;
+}
